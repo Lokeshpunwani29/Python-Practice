@@ -1,7 +1,5 @@
 word = "aaaaaaabcda"
-start = 0
-end = 0
-max_len = 0
+start = end = max_len = 0
 max_substring = ""
 ls = set()
 
